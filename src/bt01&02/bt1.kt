@@ -1,4 +1,4 @@
-// Giải phương trình bậc 01
+// Giải phương trình bậc
 package `bt01&02`
 
 fun giaipt(a:Double, b:Double){
