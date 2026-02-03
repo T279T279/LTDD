@@ -1,5 +1,5 @@
 // Giải phương trình bậc
-package `bt01&02`
+package bt01_02
 
 fun giaipt(a:Double, b:Double){
     when{

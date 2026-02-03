@@ -1,5 +1,5 @@
 //Tính tổng các giá trị lẻ trong dãy số từ 1 đến N (với n lá số nguyên dương, nhập từ bàn phím)
-package `bt01&02`
+package bt01_02
 
 fun main(){
     print("Nhập số nguyên dương N: ")

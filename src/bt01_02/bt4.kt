@@ -1,5 +1,5 @@
 // Tìm số thực lớn nhất trong 3 số nhập từ bàn phím
-package `bt01&02`
+package bt01_02
 
 fun main(){
     print("Nhập số thứ nhất")

@@ -1,5 +1,5 @@
 //Tính tổng 3 số nguyên nhập từ bàn phím
-package `bt01&02`
+package bt01_02
 
 fun main(){
     var sum=0
