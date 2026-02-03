@@ -1,4 +1,4 @@
-//Tính tổng các giá trị lẻ trong dãy số từ 1 đến N (với n lá số nguyên dương, nhập từ bàn phím)
+//Tính tổng các giá trị lẻ trong dãy số từ 1 đến N
 package bt01_02
 
 fun main(){

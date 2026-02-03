@@ -1,4 +1,4 @@
-//Tính tổng 3 số nguyên nhập từ bàn phím
+//Tính tổng 3 số nguyên nhập từ bàn
 package bt01_02
 
 fun main(){

@@ -1,4 +1,4 @@
-//Giải phương trình bậc 2: ax^2 + bx + c = 0 (với mọi a)
+//Giải phương trình bậc 2: ax^2 + bx + c = 0
 package bt01_02
 
 import kotlin.math.sqrt
