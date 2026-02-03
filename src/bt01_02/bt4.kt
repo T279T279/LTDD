@@ -1,4 +1,4 @@
-// Tìm số thực lớn nhất trong 3 số nhập từ bàn
+// Tìm số thực lớn nhất trong 3 số nhập từ bàn phím
 package bt01_02
 
 fun main(){
