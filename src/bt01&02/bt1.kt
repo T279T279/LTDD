@@ -1,6 +1,6 @@
+// Giải phương trình bậc 01
 package `bt01&02`
 
-// Giải phương trình bậc 01
 fun giaipt(a:Double, b:Double){
     when{
         (a!= 0.0 && b!=0.0) ->{

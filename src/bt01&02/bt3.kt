@@ -1,4 +1,5 @@
 //Giải phương trình bậc 2: ax^2 + bx + c = 0 (với mọi a)
+package `bt01&02`
 
 import kotlin.math.sqrt
 fun giaiptb2(a:Double, b:Double,c:Double){

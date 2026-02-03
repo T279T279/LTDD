@@ -1,4 +1,6 @@
 // Tìm số thực lớn nhất trong 3 số nhập từ bàn phím
+package `bt01&02`
+
 fun main(){
     print("Nhập số thứ nhất")
     val a=readLine()?.toDoubleOrNull() ?:0.0

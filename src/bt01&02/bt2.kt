@@ -1,6 +1,8 @@
 //Tính tổng các giá trị lẻ trong dãy số từ 1 đến N (với n lá số nguyên dương, nhập từ bàn phím)
+package `bt01&02`
+
 fun main(){
-    print("Nhập số nguyên dương N ")
+    print("Nhập số nguyên dương N: ")
     var n = readLine()?.toIntOrNull() ?:0
     while(n<=0) {
         print("Nhập số nguyên dương")
